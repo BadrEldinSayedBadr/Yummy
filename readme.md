@@ -4,6 +4,10 @@ Welcome to our restaurant's website repository! This website is built using nati
 
 <br>
 
+![Alt Text](Yummy.png)
+
+<br>
+
 ## Features
 * Menu Display: The website prominently displays our menu, featuring a wide range of delicious meals categorized by type (appetizers, mains, desserts, etc.).
 * Search Functionality: Users can search for specific dishes by name using the search bar. Additionally, they can filter the menu by the first letter of the dish's name for quicker navigation.
